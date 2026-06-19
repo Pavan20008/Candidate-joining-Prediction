@@ -95,7 +95,5 @@ This project predicts the probability that a candidate will join a company after
 - See dependencies above
 
 ## Authors
-- Your Name Here
+- Kuruva Pavan sai krishna
 
-## License
-- [Specify your license] 
